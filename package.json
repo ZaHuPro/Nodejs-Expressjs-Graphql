@@ -1,0 +1,35 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A backend server api project with Nodejs, Expressjs and Graphql",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaHuPro/Nodejs-Expressjs-Graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZaHuPro/Nodejs-Expressjs-Graphql/issues"
+  },
+  "homepage": "https://github.com/ZaHuPro/Nodejs-Expressjs-Graphql#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "dataloader": "^1.4.0",
+    "debug": "^4.1.1",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1",
+    "http": "0.0.0",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.4.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}

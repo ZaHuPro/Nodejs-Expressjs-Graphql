@@ -1,0 +1,8 @@
+{
+    "common": {
+        "title": "Backend",
+        "url": "http://localhost",
+        "port": 7080,
+        "path": "F:/Coronam"
+    }
+}
